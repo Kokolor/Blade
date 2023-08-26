@@ -1,3 +1,2 @@
 # Blade Launcher
-Blade Launcher est un launcher simple, libre.
-# Blade
+Blade Launcher est un launcher simple, libre et portable.
